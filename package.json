@@ -1,0 +1,38 @@
+{
+  "name": "alex-bot",
+  "version": "1.0.0",
+  "description": "Alex Bot",
+  "main": "server.js",
+  "engines": {
+    "node": "8.12.x"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "mysql": "^2.17.1",
+    "sqlite": "^3.0.3",
+    "node-fetch": "^2.6.0",
+    "canvas": "^2.6.1",
+    "sqlite3": "^4.1.1",
+    "moment": "^2.24.0",
+    "express": "^4.17.1",
+    "superagent": "^5.1.2",
+    "enmap": "^5.2.4",
+    "to-zalgo": "^1.0.1",
+    "zalgo": "^0.0.1",
+    "better-sqlite3": "^5.4.3",
+    "buf": "^0.1.1",
+    "discord": "^0.8.2",
+    "request": "^2.88.0",
+    "npm-user": "^4.1.1",
+    "node-cmd": "^3.0.0",
+    "quick.db": "^6.3.2",
+    "parse-ms": "^2.0.0",
+    "to-time": "^1.0.2",
+    "sequential": "^0.0.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "not julian :p",
+  "license": "MIT"
+}
